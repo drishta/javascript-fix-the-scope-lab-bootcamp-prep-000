@@ -13,7 +13,7 @@ function add2(n) {
   var n = 373
   return n + two
 
-  // Feel free to move things around!
+  
   const two = 2
 }
 
